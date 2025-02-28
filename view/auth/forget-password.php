@@ -1,4 +1,4 @@
-
+<?php $title = 'forget password'; ?>
     <!-- CSS 
     ========================= -->
    

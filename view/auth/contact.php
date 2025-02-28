@@ -1,4 +1,4 @@
-
+<?php $title = 'contact'; ?>
 <body>
 
     <!--header area start-->
