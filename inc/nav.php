@@ -97,31 +97,31 @@
                                         <li class="menu-item-has-children">
                                             <a href="#">pages </a>
                                             <ul class="sub-menu">
-                                                <li><a href="about.php">About Us</a></li>
-                                                <li><a href="contact.php">contact</a></li>
-                                                <li><a href="privacy-policy.php">privacy policy</a></li>
-                                                <li><a href="faq.php">Frequently Questions</a></li>
-                                                <li><a href="login.php">login</a></li>
-                                                <li><a href="register.php">register</a></li>
-                                                <li><a href="forget-password.php">Forget Password</a></li>
-                                                <li><a href="404.php">Error 404</a></li>
-                                                <li><a href="cart.php">cart</a></li>
-                                                <li><a href="tracking.php">tracking</a></li>
-                                                <li><a href="checkout.php">checkout</a></li>
+                                                <li><a href="index.php?page=about">About Us</a></li>
+                                                <li><a href="index.php?page=contact">contact</a></li>
+                                                <li><a href="index.php?page=privacy-policy">privacy policy</a></li>
+                                                <li><a href="index.php?page=faq">Frequently Questions</a></li>
+                                                <li><a href="index.php?page=login">login</a></li>
+                                                <li><a href="index.php?page=register">register</a></li>
+                                                <li><a href="index.php?page=forget-password">Forget Password</a></li>
+                                                <li><a href="index.php?page=404">Error 404</a></li>
+                                                <li><a href="index.php?page=cart">cart</a></li>
+                                                <li><a href="index.php?page=tracking">tracking</a></li>
+                                                <li><a href="index.php?page=checkout">checkout</a></li>
                                             </ul>
                                         </li>
                                         <li class="menu-item-has-children">
                                             <a href="#">blog</a>
                                             <ul class="sub-menu">
-                                                <li><a href="blog.php">blog</a></li>
-                                                <li><a href="blog-details.php">blog details</a></li>
+                                                <li><a href="index.php?page=blog">blog</a></li>
+                                                <li><a href="index.php?page=blog-details">blog details</a></li>
                                             </ul>
                                         </li>
                                         <li class="menu-item-has-children">
-                                            <a href="login.php">my account</a>
+                                            <a href="index.php?page=login">my account</a>
                                         </li>
                                         <li class="menu-item-has-children">
-                                            <a href="contact.php"> Contact Us</a> 
+                                            <a href="index.php?page=contact"> Contact Us</a> 
                                         </li>
                                     </ul>
                                 </div>

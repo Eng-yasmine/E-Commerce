@@ -5,6 +5,9 @@
  
  require_once '../inc/nav.php';
  
+
+
+ require_once '../routes/web.php';
  ?>
  <!--Offcanvas menu area start-->
        <!--header area end-->
