@@ -37,7 +37,7 @@
                                     </div>
                                 </div>
                                 <div class="col-lg-9 col-md-6">
-                                    <div class="middel_right">
+                                    <div class="middle_right">
                                         <div class="search_container">
                                            <form action="#">
                                                 <div class="search_box">
@@ -119,7 +119,7 @@
                                         <nav>  
                                             <ul>
                                                 <li><a href="index.php?page=index-2">home</a></li>
-                                                <li><a href="product-details.php">Product</a></li>
+                                                <li><a href="index.php?page=product-details">Product</a></li>
                                                 
                                                 <li><a class="active" href="#">pages <i class="fa fa-angle-down"></i></a>
                                                     <ul class="sub_menu pages">
