@@ -18,8 +18,8 @@
                                 <div class="col-lg-6 col-md-6">
                                     <div class="top_right text-right">
                                         <ul>
-                                           <li><a href="my-account.php">Account</a></li> 
-                                           <li><a href="checkout.php">Checkout</a></li> 
+                                           <li><a href="index.php?page=my-account">Account</a></li> 
+                                           <li><a href="index.php?page=checkout">Checkout</a></li> 
                                         </ul>
                                     </div>   
                                 </div>
@@ -33,7 +33,7 @@
                             <div class="row align-items-center">
                                 <div class="col-lg-3 col-md-6">
                                     <div class="logo">
-                                        <a href="index-2.php"><img src="assets/img/logo/logo.png" alt=""></a>
+                                        <a href="index.php?page=index-2"><img src="assets/img/logo/logo.png" alt=""></a>
                                     </div>
                                 </div>
                                 <div class="col-lg-9 col-md-6">
@@ -92,10 +92,10 @@
         
                                                     <div class="mini_cart_footer">
                                                        <div class="cart_button">
-                                                            <a href="cart.php">View cart</a>
+                                                            <a href="index.php?page=cart">View cart</a>
                                                         </div>
                                                         <div class="cart_button">
-                                                            <a href="checkout.php">Checkout</a>
+                                                            <a href="index.php?page=checkout">Checkout</a>
                                                         </div>
         
                                                     </div>
@@ -118,31 +118,31 @@
                                     <div class="main_menu menu_position"> 
                                         <nav>  
                                             <ul>
-                                                <li><a href="index-2.php">home</a></li>
+                                                <li><a href="index.php?page=index-2">home</a></li>
                                                 <li><a href="product-details.php">Product</a></li>
                                                 
                                                 <li><a class="active" href="#">pages <i class="fa fa-angle-down"></i></a>
                                                     <ul class="sub_menu pages">
-                                                        <li><a href="about.php">About Us</a></li>
-                                                        <li><a href="contact.php">contact</a></li>
-                                                        <li><a href="privacy-policy.php">privacy policy</a></li>
-                                                        <li><a href="faq.php">Frequently Questions</a></li>
-                                                        <li><a href="login.php">login</a></li>
-                                                        <li><a href="register.php">register</a></li>
-                                                        <li><a href="forget-password.php">Forget Password</a></li>
-                                                        <li><a href="404.php">Error 404</a></li>
-                                                        <li><a href="cart.php">cart</a></li>
-                                                        <li><a href="tracking.php">tracking</a></li>
-                                                        <li><a href="checkout.php">checkout</a></li>
+                                                        <li><a href="index.php?page=about">About Us</a></li>
+                                                        <li><a href="index.php?page=contact">contact</a></li>
+                                                        <li><a href="index.php?page=privacy-policy">privacy policy</a></li>
+                                                        <li><a href="index.php?page=faq">Frequently Questions</a></li>
+                                                        <li><a href="index.php?page=login">login</a></li>
+                                                        <li><a href="index.php?page=register">register</a></li>
+                                                        <li><a href="index.php?page=forget-password">Forget Password</a></li>
+                                                        <li><a href="index.php?page=404">Error 404</a></li>
+                                                        <li><a href="index.php?page=cart">cart</a></li>
+                                                        <li><a href="index.php?page=tracking">tracking</a></li>
+                                                        <li><a href="index.php?page=checkout">checkout</a></li>
                                                     </ul>
                                                 </li>
-                                                <li><a href="blog.php">blog<i class="fa fa-angle-down"></i></a>
+                                                <li><a href="index.php?page=blog">blog<i class="fa fa-angle-down"></i></a>
                                                     <ul class="sub_menu pages">
-                                                        <li><a href="blog.php">blog</a></li>
-                                                        <li><a href="blog-details.php">blog details</a></li>
+                                                        <li><a href="index.php?page=blog">blog</a></li>
+                                                        <li><a href="index.php?page=blog-details">blog details</a></li>
                                                     </ul>
                                                 </li>
-                                                <li><a href="contact.php"> Contact Us</a></li>
+                                                <li><a href="index.php?page=contact"> Contact Us</a></li>
                                             </ul>  
                                         </nav> 
                                     </div>

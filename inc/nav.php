@@ -15,8 +15,8 @@
                                 </div>
                                 <div class="top_right text-right">
                                     <ul>
-                                       <li><a href="my-account.php"> My Account </a></li> 
-                                       <li><a href="checkout.php"> Checkout </a></li> 
+                                       <li><a href="index.php?page=my-account"> My Account </a></li> 
+                                       <li><a href="index.php?page=checkout"> Checkout </a></li> 
                                     </ul>
                                 </div> 
                                 <div class="search_container">
@@ -30,7 +30,7 @@
                                 
                                 <div class="middel_right_info">
                                     <div class="header_wishlist">
-                                        <a href="wishlist.php"><img src="assets/img/user.png" alt=""></a>
+                                        <a href="index.php?page=wishlist"><img src="assets/img/user.png" alt=""></a>
                                     </div>
                                     <div class="mini_cart_wrapper">
                                         <a href="javascript:void(0)"><img src="assets/img/shopping-bag.png" alt=""></a>
@@ -74,10 +74,10 @@
         
                                             <div class="mini_cart_footer">
                                                <div class="cart_button">
-                                                    <a href="cart.php">View cart</a>
+                                                    <a href="index.php?page=cart">View cart</a>
                                                 </div>
                                                 <div class="cart_button">
-                                                    <a href="checkout.php">Checkout</a>
+                                                    <a href="index.php?page=checkout">Checkout</a>
                                                 </div>
         
                                             </div>
