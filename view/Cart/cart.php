@@ -112,7 +112,7 @@
                 </div>
                 <!--coupon code area end-->
             </form> 
-        </div>     
+        </div>
     </div>
     <!--shopping cart area end -->
         
