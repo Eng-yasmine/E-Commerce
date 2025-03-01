@@ -31,32 +31,32 @@
                    <div class="product-details-tab">
                         <div id="img-1" class="zoomWrapper single-zoom">
                             <a href="#">
-                                <img id="zoom1" src="assets/img/product/details-1.jpg" data-zoom-image="assets/img/product/details-1.jpg" alt="big-1">
+                                <img id="zoom1" src="public/assets/img/product/details-1.jpg" data-zoom-image="assets/img/product/details-1.jpg" alt="big-1">
                             </a>
                         </div>
                         <div class="single-zoom-thumb">
                             <ul class="s-tab-zoom owl-carousel single-product-active" id="gallery_01">
                                 <li>
                                     <a href="#" class="elevatezoom-gallery active" data-update="" data-image="assets/img/product/details-2.jpg" data-zoom-image="assets/img/product/details-2.jpg">
-                                        <img src="assets/img/product/details-2.jpg" alt="zo-th-1"/>
+                                        <img src="public/assets/img/product/details-2.jpg" alt="zo-th-1"/>
                                     </a>
 
                                 </li>
                                 <li >
                                     <a href="#" class="elevatezoom-gallery active" data-update="" data-image="assets/img/product/details-3.jpg" data-zoom-image="assets/img/product/details-3.jpg">
-                                        <img src="assets/img/product/details-3.jpg" alt="zo-th-1"/>
+                                        <img src="public/assets/img/product/details-3.jpg" alt="zo-th-1"/>
                                     </a>
 
                                 </li>
                                 <li >
                                     <a href="#" class="elevatezoom-gallery active" data-update="" data-image="assets/img/product/details-4.jpg" data-zoom-image="assets/img/product/details-4.jpg">
-                                        <img src="assets/img/product/details-4.jpg" alt="zo-th-1"/>
+                                        <img src="public/assets/img/product/details-4.jpg" alt="zo-th-1"/>
                                     </a>
 
                                 </li>
                                 <li >
                                     <a href="#" class="elevatezoom-gallery active" data-update="" data-image="assets/img/product/details-1.jpg" data-zoom-image="assets/img/product/details-1.jpg">
-                                        <img src="assets/img/product/details-1.jpg" alt="zo-th-1"/>
+                                        <img src="public/assets/img/product/details-1.jpg" alt="zo-th-1"/>
                                     </a>
 
                                 </li>
@@ -114,8 +114,8 @@
                             </div>
                             <div class=" product_d_action">
                                <ul>
-                                   <li><a href="#" title="Add to wishlist">+ Add to Wishlist</a></li>
-                                   <li><a href="#" title="Add to wishlist">+ Compare</a></li>
+                                   <li><a href="index.php?page=wishlist" title="Add to wishlist">+ Add to Wishlist</a></li>
+                                   <li><a href="index.php?page=wishlist" title="Add to wishlist">+ Compare</a></li>
                                </ul>
                             </div>
                             <div class="product_meta">
@@ -197,7 +197,7 @@
                                     <h2>1 review for Donec eu furniture</h2>
                                     <div class="reviews_comment_box">
                                         <div class="comment_thmb">
-                                            <img src="assets/img/blog/comment2.jpg" alt="">
+                                            <img src="public/assets/img/blog/comment2.jpg" alt="">
                                         </div>
                                         <div class="comment_text">
                                             <div class="reviews_meta">

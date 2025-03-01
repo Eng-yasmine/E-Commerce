@@ -44,7 +44,7 @@
                                     </div>
                                 </div>
                                 <div class="blog_thumb">
-                                   <a href="#"><img src="assets/img/blog/blog-details.jpg" alt=""></a>
+                                   <a href="#"><img src="public/assets/img/blog/blog-details.jpg" alt=""></a>
                                </div>
                                <figcaption class="blog_content">
                                     <div class="post_content">
@@ -81,7 +81,7 @@
                             <h3>3 Comments	</h3>
                             <div class="comment_list">
                                 <div class="comment_thumb">
-                                    <img src="assets/img/blog/comment3.png.jpg" alt="">
+                                    <img src="public/assets/img/blog/comment3.png.jpg" alt="">
                                 </div>
                                 <div class="comment_content">
                                     <div class="comment_meta">
@@ -97,7 +97,7 @@
                             </div>
                             <div class="comment_list list_two">
                                 <div class="comment_thumb">
-                                    <img src="assets/img/blog/comment3.png.jpg" alt="">
+                                    <img src="public/assets/img/blog/comment3.png.jpg" alt="">
                                 </div>
                                 <div class="comment_content">
                                     <div class="comment_meta">
@@ -112,7 +112,7 @@
                             </div>
                             <div class="comment_list">
                                 <div class="comment_thumb">
-                                    <img src="assets/img/blog/comment3.png.jpg" alt="">
+                                    <img src="public/assets/img/blog/comment3.png.jpg" alt="">
                                 </div>
                                 <div class="comment_content">
                                     <div class="comment_meta">
@@ -169,28 +169,28 @@
                             <h3>Recent Posts</h3>
                             <div class="post_wrapper">
                                 <div class="post_thumb">
-                                    <a href="blog-details.html"><img src="assets/img/blog/blog1.jpg" alt=""></a>
+                                    <a href="index.php?page=blog-details"><img src="public/assets/img/blog/blog1.jpg" alt=""></a>
                                 </div>
                                 <div class="post_info">
-                                    <h3><a href="blog-details.html">Blog image post</a></h3>
+                                    <h3><a href="index.php?page=blog-details">Blog image post</a></h3>
                                     <span>March 16, 2018 </span>
                                 </div>
                             </div>
                              <div class="post_wrapper">
                                 <div class="post_thumb">
-                                    <a href="blog-details.html"><img src="assets/img/blog/blog2.jpg" alt=""></a>
+                                    <a href="index.php?page=blog-details"><img src="public/assets/img/blog/blog2.jpg" alt=""></a>
                                 </div>
                                 <div class="post_info">
-                                    <h3><a href="blog-details.html">Post with Gallery</a></h3>
+                                    <h3><a href="index.php?page=blog-details">Post with Gallery</a></h3>
                                     <span>March 16, 2018 </span>
                                 </div>
                             </div>
                              <div class="post_wrapper">
                                 <div class="post_thumb">
-                                    <a href="blog-details.html"><img src="assets/img/blog/blog1.jpg" alt=""></a>
+                                    <a href="index.php?page=blog-details"><img src="public/assets/img/blog/blog1.jpg" alt=""></a>
                                 </div>
                                 <div class="post_info">
-                                    <h3><a href="blog-details.html">Post with Audio</a></h3>
+                                    <h3><a href="index.php?page=blog-details">Post with Audio</a></h3>
                                     <span>March 16, 2018 </span>
                                 </div>
                             </div>

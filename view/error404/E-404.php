@@ -14,7 +14,7 @@
                 <div class="col-12">
                     <div class="breadcrumb_content">
                         <ul>
-                            <li><a href="index-2.html">home</a></li>
+                            <li><a href="index.php?page=index-2">home</a></li>
                             <li>404 page</li>
                         </ul>
                     </div>
@@ -31,7 +31,7 @@
             <div class="row">
                 <div class="col-12">
                     <div class="error_form">
-                        <img src="assets/img/404.jpg" alt=""/>
+                        <img src="public/assets/img/404.jpg" alt=""/>
                         <h2>Ops ! PAGE NOT BE FOUND</h2>
                         <p>Contrary to popular belief, Lorem Ipsum is not simply random <br/> text. It has roots in a piece of classical</p>
                         <a href="index.php?page=index-2">Back to home page</a>

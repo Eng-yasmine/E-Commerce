@@ -18,7 +18,7 @@
                 <div class="col-12">
                     <div class="breadcrumb_content">
                         <ul>
-                            <li><a href="index-2.html">home</a></li>
+                            <li><a href="index.php?page=index-2">home</a></li>
                             <li>Login</li>
                         </ul>
                     </div>
@@ -32,7 +32,7 @@
 		<div class="container">
 			<div class="row justify-content-center">
 				<div class="col-lg-10">
-					<div class="account-contents" style="background: url('assets/img/about/about1.jpg'); background-size: cover;">
+					<div class="account-contents" style="background: url('public/assets/img/about/about1.jpg'); background-size: cover;">
                         <div class="row">
                             <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12">
                                 <div class="account-thumb">
@@ -59,7 +59,7 @@
                                             <button type="submit">Login Account</button>
                                         </div>
                                         <a href="forget-password.html">Forget Password?</a>
-                                        <a href="register.html">Not Account Yet?</a>
+                                        <a href="index.php?page=register">Not Account Yet?</a>
                                     </form>
                                 </div>
                             </div>
