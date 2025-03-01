@@ -39,31 +39,31 @@
                             </div>
                             <div class="col-xl-7 col-lg-7 col-md-7 col-sm-12">
                                 <div class="account-content">
-                                    <form action="#">
+                                    <form action="index.php?page=logic_contact">
                                         <div class="row">
                                             <div class="col-lg-6">
                                                 <div class="single-acc-field">
                                                     <label for="name">Name</label>
-                                                    <input type="text" placeholder="Name" id="name">
+                                                    <input type="text" name="name" placeholder="Name" id="name">
                                                 </div>
                                             </div>
                                             <div class="col-lg-6">
                                                 <div class="single-acc-field">
                                                     <label for="email">Email</label>
-                                                    <input type="email" placeholder="Email" id="email">
+                                                    <input type="email" name="email" placeholder="Email" id="email">
                                                 </div>
                                             </div>
                                             <div class="col-lg-12">
                                                 <div class="single-acc-field">
                                                     <label for="msg">Message</label>
-                                                    <textarea name="msg" id="msg" rows="4"></textarea>
+                                                    <textarea name="msg" name="message" id="msg" rows="4"></textarea>
                                                 </div>
                                             </div>
                                         </div>
                                         
                                         
                                         <div class="single-acc-field boxes">
-                                            <input type="checkbox" id="checkbox">
+                                            <input  name="checkbox" type="checkbox" id="checkbox">
                                             <label for="checkbox">Remember me</label>
                                         </div>
                                         <div class="single-acc-field">

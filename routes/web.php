@@ -29,6 +29,7 @@ $array_pages =
         'logic_register' => 'controllers/auth/logic_register',
         'logic_user_account' => 'controllers/auth/logic_user_account',
         'logic_blog_details' => 'controllers/blog/logic_blog_details',
+        'logic_contact' => 'controllers/auth/logic_contact',
         'logic_blog' => 'controllers/blog/logic_blog',
         'logic_cart' => 'controllers/cart/logic_cart',
         'logic_checkout' => 'controllers/cart/logic_checkout',
