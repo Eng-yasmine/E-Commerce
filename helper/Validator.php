@@ -13,7 +13,13 @@ class Validator
             foreach($rules_array as $rule_value){
                 if($rule_value == 'required'){
                     $this->validate_require($field , $inputs[$field]);
-                }elsif($rule_value == )
+                }elsif($rule_value == 'min:6'){                 
+                        $array_len = explode(':' , $rule_value);
+                        if($array_len[0] == 'min' && strlen($array_len[1]) < $min_length){
+                            $this->validate_min_length($field , $inputs[$field]);
+                        }
+                
+                }
                 
             }
         }
