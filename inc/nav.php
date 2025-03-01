@@ -1,4 +1,5 @@
-</div>
+<div class="off_canvars_overlay">
+
             <div class="Offcanvas_menu">
                 <div class="container">
                     <div class="row">
@@ -30,16 +31,16 @@
                                 
                                 <div class="middel_right_info">
                                     <div class="header_wishlist">
-                                        <a href="index.php?page=wishlist"><img src="assets/img/user.png" alt=""></a>
+                                        <a href="index.php?page=wishlist"><img src="public/assets/img/user.png" alt=""></a>
                                     </div>
                                     <div class="mini_cart_wrapper">
-                                        <a href="javascript:void(0)"><img src="assets/img/shopping-bag.png" alt=""></a>
+                                        <a href="javascript:void(0)"><img src="public/assets/img/shopping-bag.png" alt=""></a>
                                         <span class="cart_quantity">2</span>
                                         <!--mini cart-->
                                          <div class="mini_cart">
                                             <div class="cart_item">
                                                <div class="cart_img">
-                                                   <a href="#"><img src="assets/img/s-product/product.jpg" alt=""></a>
+                                                   <a href="#"><img src="public/assets/img/s-product/product.jpg" alt=""></a>
                                                </div>
                                                 <div class="cart_info">
                                                     <a href="#">Sit voluptatem rhoncus sem lectus</a>
@@ -51,7 +52,7 @@
                                             </div>
                                             <div class="cart_item">
                                                <div class="cart_img">
-                                                   <a href="#"><img src="assets/img/s-product/product2.jpg" alt=""></a>
+                                                   <a href="#"><img src="public/assets/img/s-product/product2.jpg" alt=""></a>
                                                </div>
                                                 <div class="cart_info">
                                                     <a href="#">Natus erro at congue massa commodo</a>
@@ -92,7 +93,7 @@
                                             <a href="#">Home</a>
                                         </li>
                                         <li class="menu-item-has-children">
-                                            <a href="product-details.php">product</a>
+                                            <a href="index.php?page=product-details">product</a>
                                         </li>
                                         <li class="menu-item-has-children">
                                             <a href="#">pages </a>

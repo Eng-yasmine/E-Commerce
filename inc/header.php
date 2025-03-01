@@ -5,28 +5,27 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Drophut - Single Product eCommerce Template</title>
+    <title> <?= $title ; ?> </title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- Favicon -->
-    <link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.ico">
+    <link rel="shortcut icon" type="image/x-icon" href="public/assets/img/favicon.ico">
     
     <!-- CSS 
     ========================= -->
    
 
     <!-- Plugins CSS -->
-    <link rel="stylesheet" href="assets/css/plugins.css">
+    <link rel="stylesheet" href="public/assets/css/plugins.css">
     
     <!-- Main Style CSS -->
-    <link rel="stylesheet" href="assets/css/style.css">
-    <link rel="stylesheet" href="assets/css/custom.css">
+    <link rel="stylesheet" href="public/assets/css/style.css">
+    <link rel="stylesheet" href="public/assets/css/custom.css">
 
 </head>
 
 <body>
 
-    <div class="off_canvars_overlay">
             
           
             <!--Offcanvas menu area end-->
@@ -60,7 +59,7 @@
                             <div class="row align-items-center">
                                 <div class="col-lg-3 col-md-6">
                                     <div class="logo">
-                                        <a href="index.php?page=index-2"><img src="assets/img/logo/logo.png" alt=""></a>
+                                        <a href="index.php?page=index-2"><img src="public/assets/img/logo/logo.png" alt=""></a>
                                     </div>
                                 </div>
                                 <div class="col-lg-9 col-md-6">
@@ -75,16 +74,16 @@
                                         </div>
                                         <div class="middle_right_info">
                                             <div class="header_wishlist">
-                                                <a href="#"><img src="assets/img/user.png" alt=""></a>
+                                                <a href="#"><img src="public/assets/img/user.png" alt=""></a>
                                             </div>
                                             <div class="mini_cart_wrapper">
-                                                <a href="javascript:void(0)"><img src="assets/img/shopping-bag.png" alt=""></a>
+                                                <a href="javascript:void(0)"><img src="public/assets/img/shopping-bag.png" alt=""></a>
                                                 <span class="cart_quantity">2</span>
                                                 <!--mini cart-->
                                                  <div class="mini_cart">
                                                     <div class="cart_item">
                                                        <div class="cart_img">
-                                                           <a href="#"><img src="assets/img/s-product/product.jpg" alt=""></a>
+                                                           <a href="#"><img src="public/assets/img/s-product/product.jpg" alt=""></a>
                                                        </div>
                                                         <div class="cart_info">
                                                             <a href="#">Sit voluptatem rhoncus sem lectus</a>
@@ -96,7 +95,7 @@
                                                     </div>
                                                     <div class="cart_item">
                                                        <div class="cart_img">
-                                                           <a href="#"><img src="assets/img/s-product/product2.jpg" alt=""></a>
+                                                           <a href="#"><img src="public/assets/img/s-product/product2.jpg" alt=""></a>
                                                        </div>
                                                         <div class="cart_info">
                                                             <a href="#">Natus erro at congue massa commodo</a>

@@ -6,7 +6,7 @@
 
 
     <!--slider area start-->
-    <section class="slider_section d-flex align-items-center" data-bgimg="assets/img/slider/slider3.jpg">
+    <section class="slider_section d-flex align-items-center" data-bgimg="public/assets/img/slider/slider3.jpg">
         <div class="slider_area owl-carousel">
             <div class="single_slider d-flex align-items-center">
                 <div class="container">
@@ -16,12 +16,12 @@
                                 <h1>Next level of Drone</h1>
                                 <h2>Insane Quality for use</h2>
                                 <p>Special offer <span> 20% off </span> this week</p>
-                                <a class="button" href="product-details.html">Buy now</a>
+                                <a class="button" href="index.php?page=product-details">Buy now</a>
                             </div>
                         </div>
                         <div class="col-xl-6 col-md-6">
                             <div class="slider_content">
-                                <img src="assets/img/product/1.png" alt="">
+                                <img src="public/assets/img/product/1.png" alt="">
                             </div>
                         </div>
                     </div>
@@ -36,12 +36,12 @@
                                 <h1>Best Camera Included</h1>
                                 <h2>100% Flexible</h2>
                                 <p>exclusive offer <span> 20% off </span> this week</p>
-                                <a class="button" href="product-details.html">Shop now</a>
+                                <a class="button" href="index.php?product-details">Shop now</a>
                             </div>
                         </div>                        
                         <div class="col-xl-6 col-md-6">
                             <div class="slider_content">
-                                <img src="assets/img/product/2.png" alt="">
+                                <img src="public/assets/img/product/2.png" alt="">
                             </div>
                         </div>
                     </div>
@@ -55,12 +55,12 @@
                                 <h1>With some gifts</h1>
                                 <h2>Special one for you</h2>
                                 <p>exclusive offer <span> 20% off </span> this week</p>
-                                <a class="button" href="product-details.html">shopping now</a>
+                                <a class="button" href="index.php?page=product-details">shopping now</a>
                             </div>
                         </div>                      
                         <div class="col-xl-6 col-md-6">
                             <div class="slider_content">
-                                <img src="assets/img/product/3.png" alt="">
+                                <img src="public/assets/img/product/3.png" alt="">
                             </div>
                         </div>
                     </div>
@@ -85,7 +85,7 @@
                     <div class="single-tranding">
                         <a href="product-details.html">
                             <div class="tranding-pro-img">
-                                <img src="assets/img/product/tranding-1.jpg" alt="">
+                                <img src="public/assets/img/product/tranding-1.jpg" alt="">
                             </div>
                             <div class="tranding-pro-title">
                                 <h3>Meyoji Robast Drone</h3>
@@ -104,7 +104,7 @@
                     <div class="single-tranding">
                         <a href="product-details.html">
                             <div class="tranding-pro-img">
-                                <img src="assets/img/product/tranding-2.jpg" alt="">
+                                <img src="public/assets/img/product/tranding-2.jpg" alt="">
                             </div>
                             <div class="tranding-pro-title">
                                 <h3>Ut praesentium earum</h3>
@@ -123,7 +123,7 @@
                     <div class="single-tranding">
                         <a href="product-details.html">
                             <div class="tranding-pro-img">
-                                <img src="assets/img/product/tranding-3.jpg" alt="">
+                                <img src="public/assets/img/product/tranding-3.jpg" alt="">
                             </div>
                             <div class="tranding-pro-title">
                                 <h3>Consectetur adipisicing</h3>
@@ -162,20 +162,20 @@
                 </div>
                 <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 col-12">
                     <div class="single-features">
-                        <img src="assets/img/icon/2.png" alt="">
+                        <img src="public/assets/img/icon/2.png" alt="">
                         <h3>100% self safe</h3>
                         <p>consectetur adipisicing elit. Ut praesentium earum, blanditiis, voluptatem repellendus rerum voluptatibus dignissimos</p>
                     </div>
                 </div>
                 <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 col-12">
                     <div class="single-features">
-                        <img src="assets/img/icon/3.png" alt="">
+                        <img src="public/assets/img/icon/3.png" alt="">
                         <h3>Awesome Support</h3>
                         <p>consectetur adipisicing elit. Ut praesentium earum, blanditiis, voluptatem repellendus rerum voluptatibus dignissimos</p>
                     </div>
                 </div>
                 <div class="col-xl-8 col-lg-8 col-md-8 col-sm-12 col-12">
-                    <a href="#"><img src="assets/img/product/2.png" alt=""></a>
+                    <a href="#"><img src="public/assets/img/product/2.png" alt=""></a>
                 </div>
             </div>
         </div>
@@ -187,7 +187,7 @@
             <div class="row">
                 <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 order-lg-1 order-md-1 order-sm-1">
                     <div class="pro-details-feature">
-                        <img src="assets/img/product/1.png" alt="">
+                        <img src="public/assets/img/product/1.png" alt="">
                     </div>
                 </div>
                 <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 order-lg-2 order-md-2 order-sm-2">
@@ -222,7 +222,7 @@
                 </div>
                 <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 order-lg-4 order-md-3 order-sm-3 order-3">
                     <div class="pro-details-feature">
-                        <img src="assets/img/product/1.png" alt="">
+                        <img src="public/assets/img/product/1.png" alt="">
                     </div>
                 </div>
             </div>
@@ -238,32 +238,32 @@
                     <div class="product-details-tab">
                         <div id="img-1" class="zoomWrapper single-zoom">
                             <a href="#">
-                                <img id="zoom1" src="assets/img/product/details-1.jpg" data-zoom-image="assets/img/product/details-1.jpg" alt="big-1">
+                                <img id="zoom1" src="public/assets/img/product/details-1.jpg" data-zoom-image="assets/img/product/details-1.jpg" alt="big-1">
                             </a>
                         </div>
                         <div class="single-zoom-thumb">
                             <ul class="s-tab-zoom owl-carousel single-product-active" id="gallery_01">
                                 <li>
                                     <a href="#" class="elevatezoom-gallery active" data-update="" data-image="assets/img/product/details-2.jpg" data-zoom-image="assets/img/product/details-2.jpg">
-                                        <img src="assets/img/product/details-2.jpg" alt="zo-th-1"/>
+                                        <img src="public/assets/img/product/details-2.jpg" alt="zo-th-1"/>
                                     </a>
 
                                 </li>
                                 <li >
                                     <a href="#" class="elevatezoom-gallery active" data-update="" data-image="assets/img/product/details-3.jpg" data-zoom-image="assets/img/product/details-3.jpg">
-                                        <img src="assets/img/product/details-3.jpg" alt="zo-th-1"/>
+                                        <img src="public/assets/img/product/details-3.jpg" alt="zo-th-1"/>
                                     </a>
 
                                 </li>
                                 <li >
                                     <a href="#" class="elevatezoom-gallery active" data-update="" data-image="assets/img/product/details-4.jpg" data-zoom-image="assets/img/product/details-4.jpg">
-                                        <img src="assets/img/product/details-4.jpg" alt="zo-th-1"/>
+                                        <img src="public/assets/img/product/details-4.jpg" alt="zo-th-1"/>
                                     </a>
 
                                 </li>
                                 <li >
                                     <a href="#" class="elevatezoom-gallery active" data-update="" data-image="assets/img/product/details-1.jpg" data-zoom-image="assets/img/product/details-1.jpg">
-                                        <img src="assets/img/product/details-1.jpg" alt="zo-th-1"/>
+                                        <img src="public/assets/img/product/details-1.jpg" alt="zo-th-1"/>
                                     </a>
 
                                 </li>
@@ -375,7 +375,7 @@
                     <div class="single-tranding mb-30">
                         <a href="product-details.html">
                             <div class="tranding-pro-img">
-                                <img src="assets/img/product/tranding-1.jpg" alt="">
+                                <img src="public/assets/img/product/tranding-1.jpg" alt="">
                             </div>
                             <div class="tranding-pro-title">
                                 <h3>Meyoji Robast Drone</h3>
@@ -392,9 +392,9 @@
                 </div>
                 <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 col-12">
                     <div class="single-tranding mb-30">
-                        <a href="product-details.html">
+                        <a href="index.php?page=product-details">
                             <div class="tranding-pro-img">
-                                <img src="assets/img/product/tranding-2.jpg" alt="">
+                                <img src="public/assets/img/product/tranding-2.jpg" alt="">
                             </div>
                             <div class="tranding-pro-title">
                                 <h3>Ut praesentium earum</h3>
@@ -411,9 +411,9 @@
                 </div>
                 <div class="col-xl-4 col-lg-4 col-md-4 col-sm-6 col-12">
                     <div class="single-tranding mb-30">
-                        <a href="product-details.html">
+                        <a href="index.php?page=product-details">
                             <div class="tranding-pro-img">
-                                <img src="assets/img/product/tranding-3.jpg" alt="">
+                                <img src="public/assets/img/product/tranding-3.jpg" alt="">
                             </div>
                             <div class="tranding-pro-title">
                                 <h3>Consectetur adipisicing</h3>
@@ -442,7 +442,7 @@
                             <article class="single_testimonial">
                                 <figure>
                                     <div class="testimonial_thumb">
-                                        <a href="#"><img src="assets/img/about/team-3.jpg" alt=""></a>
+                                        <a href="#"><img src="public/assets/img/about/team-3.jpg" alt=""></a>
                                     </div>
                                     <figcaption class="testimonial_content">
                                         <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45</p>
@@ -454,7 +454,7 @@
                             <article class="single_testimonial">
                                 <figure>
                                     <div class="testimonial_thumb">
-                                        <a href="#"><img src="assets/img/about/team-1.jpg" alt=""></a>
+                                        <a href="#"><img src="public/assets/img/about/team-1.jpg" alt=""></a>
                                     </div>
                                     <figcaption class="testimonial_content">
                                         <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even</p>
@@ -466,7 +466,7 @@
                             <article class="single_testimonial">
                                 <figure>
                                     <div class="testimonial_thumb">
-                                        <a href="#"><img src="assets/img/about/team-2.jpg" alt=""></a>
+                                        <a href="#"><img src="public/assets/img/about/team-2.jpg" alt=""></a>
                                     </div>
                                     <figcaption class="testimonial_content">
                                         <p>College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites</p>
@@ -497,10 +497,10 @@
                     <article class="single_blog mb-60">
                         <figure>
                             <div class="blog_thumb">
-                                <a href="blog-details.html"><img src="assets/img/blog/blog2.jpg" alt=""></a>
+                                <a href="index.php?page=blog-details"><img src="public/assets/img/blog/blog2.jpg" alt=""></a>
                             </div>
                             <figcaption class="blog_content">
-                                <h3><a href="blog-details.html">How to start drone</a></h3>
+                                <h3><a href="index.php?page=blog-details">How to start drone</a></h3>
                                 <div class="blog_meta">                                        
                                     <span class="author">Posted by : <a href="#">Rahul</a> / </span>
                                     <span class="post_date"><a href="#">Sep 20, 2019</a></span>
@@ -509,7 +509,7 @@
                                     <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less</p>
                                 </div>
                                 <footer class="readmore_button">
-                                    <a href="blog-details.html">read more</a>
+                                    <a href="index.php?page=blog-details">read more</a>
                                 </footer>
                             </figcaption>
                         </figure>
@@ -519,10 +519,10 @@
                     <article class="single_blog blog_bidio mb-60">
                         <figure>
                             <div class="blog_thumb">
-                                <a href="blog-details.html"><img src="assets/img/blog/blog1.jpg" alt=""></a>
+                                <a href="index.php?page=blog-details"><img src="public/assets/img/blog/blog1.jpg" alt=""></a>
                             </div>
                             <figcaption class="blog_content">
-                                <h3><a href="blog-details.html">See the tutorial</a></h3>
+                                <h3><a href="index.php?page=blog-details">See the tutorial</a></h3>
                                 <div class="blog_meta">                                        
                                     <span class="author">Posted by : <a href="#">Rahul</a> / </span>
                                     <span class="post_date">On : <a href="#">Aug 25, 2019</a></span>
@@ -531,7 +531,7 @@
                                     <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less</p>
                                 </div>
                                 <footer class="readmore_button">
-                                    <a href="blog-details.html">read more</a>
+                                    <a href="index.php?page=blog-details">read more</a>
                                 </footer>
                             </figcaption>
                         </figure>
@@ -541,10 +541,10 @@
                     <article class="single_blog mb-60">
                         <figure>
                             <div class="blog_thumb">
-                                <a href="blog-details.html"><img src="assets/img/blog/blog-details.jpg" alt=""></a>
+                                <a href="index.php?page=blog-details"><img src="public/assets/img/blog/blog-details.jpg" alt=""></a>
                             </div>
                             <figcaption class="blog_content">
-                                <h3><a href="blog-details.html">How to start drone</a></h3>
+                                <h3><a href="index.php?page=blog-details">How to start drone</a></h3>
                                 <div class="blog_meta">                                        
                                     <span class="author">Posted by : <a href="#">Rahul</a> / </span>
                                     <span class="post_date"><a href="#">Sep 20, 2019</a></span>
@@ -553,7 +553,7 @@
                                     <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less</p>
                                 </div>
                                 <footer class="readmore_button">
-                                    <a href="blog-details.html">read more</a>
+                                    <a href="index.php?page=blog-details">read more</a>
                                 </footer>
                             </figcaption>
                         </figure>
@@ -570,7 +570,7 @@
                 <div class="col-lg-3 col-md-6 col-sm-6 col-6">
                     <div class="single_shipping">
                         <div class="shipping_icone">
-                            <img src="assets/img/about/shipping1.png" alt="">
+                            <img src="public/assets/img/about/shipping1.png" alt="">
                         </div>
                         <div class="shipping_content">
                             <h2>Free Shipping</h2>
@@ -581,7 +581,7 @@
                 <div class="col-lg-3 col-md-6 col-sm-6 col-6">
                     <div class="single_shipping">
                         <div class="shipping_icone">
-                            <img src="assets/img/about/shipping2.png" alt="">
+                            <img src="public/assets/img/about/shipping2.png" alt="">
                         </div>
                         <div class="shipping_content">
                             <h2>Support 24/7</h2>
@@ -592,7 +592,7 @@
                 <div class="col-lg-3 col-md-6 col-sm-6 col-6">
                     <div class="single_shipping">
                         <div class="shipping_icone">
-                            <img src="assets/img/about/shipping3.png" alt="">
+                            <img src="public/assets/img/about/shipping3.png" alt="">
                         </div>
                         <div class="shipping_content">
                             <h2>100% Money Back</h2>
@@ -603,7 +603,7 @@
                 <div class="col-lg-3 col-md-6 col-sm-6 col-6">
                     <div class="single_shipping">
                         <div class="shipping_icone">
-                            <img src="assets/img/about/shipping4.png" alt="">
+                            <img src="public/assets/img/about/shipping4.png" alt="">
                         </div>
                         <div class="shipping_content">
                             <h2>Payment Secure</h2>
