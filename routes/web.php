@@ -38,10 +38,10 @@ $array_pages =
     ];
 
 if (array_key_exists($page, $array_pages)) {
-    $file = __DIR__ . "/../" . $array_pages[$page] . ".php";
-    //var_dump($file);
+    $file = realpath(__DIR__ . "/../" . $array_pages[$page] . ".php");
     if ($file && file_exists($file)) {
         include $file;
+        var_dump($file);
     } else {
         include __DIR__ . "/../../view/error404/404.php";
     }
