@@ -2,11 +2,11 @@
 require_once 'session.php';
 class Validator
 {
-    private $errors = [];
+    
 
     public function validate($inputs, $rules)
     {
-        $this->errors = [];
+        
 
         foreach ($rules as $field => $conditions) {
             foreach ($conditions as $key => $value) {
